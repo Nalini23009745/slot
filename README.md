@@ -150,7 +150,7 @@ Execute the program using runserver command.
             <img src= "/static/logo.png" height="100" width="800">
          </center>
 		<table align="center" border="5" cellspacing="6" cellpadding="5" bgcolor="yellow">
-			<caption>SLOT TIME TABLE- INFANTINA MARIA L (212223100013) </caption>
+			<caption>SLOT TIME TABLE- Nalini P (212223220063) </caption>
             <br>
 			<tr>
 				<th bgcolor="lightgray"> Day/Time </th>
